@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`BottomBar should renders correctly 1`] = `
+<div
+  className="sc-gtssRu cRKlEm"
+>
+  <button
+    className="sc-bdnylx kfFHIt"
+    disabled={false}
+    onClick={[MockFunction]}
+  >
+    Add pawn
+  </button>
+</div>
+`;

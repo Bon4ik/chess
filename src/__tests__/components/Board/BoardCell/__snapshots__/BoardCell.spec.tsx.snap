@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`BottomBar should renders correctly 1`] = `
+<div
+  className="sc-bdnylx ccjdWV"
+  onClick={[Function]}
+  type="DARK"
+>
+  <span
+    className="sc-gtssRu gDJAzW"
+    type="DARK"
+  >
+    p
+  </span>
+</div>
+`;
